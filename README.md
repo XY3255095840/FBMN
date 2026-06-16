@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **Code and details coming soon upon paper acceptance.**
+
 > **Factorized Basis Modulation Network: A flexible and efficient basis-utilization framework for solving multiscale PDEs**
 ## Authors
 
