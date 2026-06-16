@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Factorized Basis Modulation Network: A flexible and efficient basis-utilization framework for solving multiscale PDEs"
+message: "If you use this software in your work, please cite the accompanying paper."
+type: software
+authors:
+  - given-names: Yang
+    family-names: Xu
+    email: youngxu0518@163.com
+    affiliation: "School of Mathematical Sciences, South China Normal University, Guangzhou, Guangdong Province, China"
+  - given-names: Zihao
+    family-names: Li
+    email: zihaol21210@gmail.com
+    affiliation: "School of Mathematical Sciences, South China Normal University, Guangzhou, Guangdong Province, China"
+  - given-names: Wenbo
+    family-names: Shen
+    email: yolochudong@gmail.com
+    affiliation: "School of Mathematical Sciences, South China Normal University, Guangzhou, Guangdong Province, China"
+repository-code: "https://github.com/XY3255095840/FBMN"
+license: MIT

@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+.pytest_cache/
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# PyTorch
+*.pth
+*.pt
+*.ckpt
+checkpoints/
+
+# Logs & outputs
+logs/
+outputs/
+*.log
+wandb/
+
+# Data files (keep structure, ignore large data)
+data/raw/
+data/processed/
+*.h5
+*.hdf5
+*.npy
+*.npz
+
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Matplotlib
+*.mplstyle
+
+# Coverage
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
