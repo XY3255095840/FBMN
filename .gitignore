@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+.venv/
+venv/
+env/
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+build/
+dist/
+*.whl
+
+# Local experiment outputs
+runs/
+outputs/
+checkpoints/
+logs/
+tmp_wheel/
+tmp_install/
+.cache/
+*.log
+wandb/
+lightning_logs/
+mlruns/
+.superpowers/
+
+# Datasets and model weights
+data/
+datasets/
+*.npy
+*.npz
+*.mat
+*.h5
+*.hdf5
+*.csv
+*.tsv
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+
+# Notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# Local secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Editors and OS files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db

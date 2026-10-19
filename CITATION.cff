@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+type: software
+title: "Factorized Basis Modulation Network"
+version: 0.1.0
+authors:
+  - family-names: Xu
+    given-names: Yang
+repository-code: "https://github.com/XY3255095840/FBMN"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Factorized basis modulation network: A flexible and efficient basis-utilization framework for solving multiscale PDEs"
+  authors:
+    - family-names: Xu
+      given-names: Yang
+    - family-names: Li
+      given-names: Zihao
+    - family-names: Shen
+      given-names: Wenbo
+  journal: Neurocomputing
+  volume: 709
+  start: "135308"
+  year: 2027
+  doi: "10.1016/j.neucom.2026.135308"
